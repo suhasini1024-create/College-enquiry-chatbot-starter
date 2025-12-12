@@ -10,3 +10,6 @@ copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
 [...the rest of the MIT text continues...]
+git add LICENSE
+git commit -m "Add MIT license"
+git push
