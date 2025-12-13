@@ -1,0 +1,26 @@
+{
+  "admission": {
+    "question": "How can I get admission?",
+    "answer": "Admissions are based on merit and entrance exam results. Visit the college admission office or official website for details."
+  },
+  "courses": {
+    "question": "What courses are offered?",
+    "answer": "The college offers undergraduate and postgraduate programs in Science, Arts, Commerce, and Computer Applications."
+  },
+  "fees": {
+    "question": "What is the fee structure?",
+    "answer": "Fee structure varies by course. Please contact the college office or visit the official website for detailed fee information."
+  },
+  "timings": {
+    "question": "What are the college timings?",
+    "answer": "College timings are from 9:30 AM to 4:30 PM, Monday to Friday."
+  },
+  "placements": {
+    "question": "Does the college provide placements?",
+    "answer": "Yes, the college has a placement cell that supports students with training and placement opportunities."
+  },
+  "contact": {
+    "question": "How can I contact the college?",
+    "answer": "You can contact the college through the official phone number or email mentioned on the college website."
+  }
+}
